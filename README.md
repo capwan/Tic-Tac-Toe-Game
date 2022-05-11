@@ -1,4 +1,4 @@
-# Tic-Tac-Game
+# Tic-Tac-Toe-Game
 Just Tic-Tac Game
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
