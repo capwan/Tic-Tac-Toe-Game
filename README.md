@@ -5,3 +5,5 @@ Just Tic-Tac Game
 
 ## Instruction
 Just open `index.html`.
+
+**[Live Demo](https://capwan.github.io/Tic-Tac-Game/)**
